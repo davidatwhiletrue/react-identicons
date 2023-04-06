@@ -4,7 +4,6 @@
   "private": true,
   "description": "Identicon component for React",
   "main": "dist/index.cjs.js",
-  "module": "dist/index.esm.js",
   "source": "src/index.js",
   "scripts": {
     "build": "rollup -c",
